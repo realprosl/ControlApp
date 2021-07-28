@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e4b6721.chunk.css",
+    "main.js": "/static/js/main.3e44fe73.chunk.js",
+    "main.js.map": "/static/js/main.3e44fe73.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.77521d99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.77521d99.js.map",
+    "static/js/2.c920b9b1.chunk.js": "/static/js/2.c920b9b1.chunk.js",
+    "static/js/2.c920b9b1.chunk.js.map": "/static/js/2.c920b9b1.chunk.js.map",
+    "static/js/3.9f1e7631.chunk.js": "/static/js/3.9f1e7631.chunk.js",
+    "static/js/3.9f1e7631.chunk.js.map": "/static/js/3.9f1e7631.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1e4b6721.chunk.css.map": "/static/css/main.1e4b6721.chunk.css.map",
+    "static/js/2.c920b9b1.chunk.js.LICENSE.txt": "/static/js/2.c920b9b1.chunk.js.LICENSE.txt",
+    "static/media/atras.ff809686.svg": "/static/media/atras.ff809686.svg",
+    "static/media/borrar.941e638d.svg": "/static/media/borrar.941e638d.svg",
+    "static/media/budget.e51699d8.svg": "/static/media/budget.e51699d8.svg",
+    "static/media/editar.3a016870.svg": "/static/media/editar.3a016870.svg",
+    "static/media/enviar.da88ad74.svg": "/static/media/enviar.da88ad74.svg",
+    "static/media/file.2d0edfae.svg": "/static/media/file.2d0edfae.svg",
+    "static/media/louder.59a5b221.svg": "/static/media/louder.59a5b221.svg",
+    "static/media/nuevo.3ff10420.svg": "/static/media/nuevo.3ff10420.svg",
+    "static/media/suma.ecf2724c.svg": "/static/media/suma.ecf2724c.svg",
+    "static/media/team.e96c0cb8.svg": "/static/media/team.e96c0cb8.svg",
+    "static/media/transporte-de-camiones-con-materiales-de-construccion.e77cd98e.svg": "/static/media/transporte-de-camiones-con-materiales-de-construccion.e77cd98e.svg",
+    "static/media/upload.7f7867d2.svg": "/static/media/upload.7f7867d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77521d99.js",
+    "static/js/2.c920b9b1.chunk.js",
+    "static/css/main.1e4b6721.chunk.css",
+    "static/js/main.3e44fe73.chunk.js"
+  ]
+}
